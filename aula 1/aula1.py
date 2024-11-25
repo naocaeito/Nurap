@@ -1,0 +1,5 @@
+print('olá, mundo')
+print('boa noite ate amanha')
+print('c de sozinho')
+print('ohhhhhhhh')
+print('sem desculpas,apenas melhore')
